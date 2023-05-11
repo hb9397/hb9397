@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </br>
     </br>
-   <h2>✨Log✨</h2>
+   <h2>✨Log & Project Repository✨</h2>
    <a href="https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Resume-7E4DD2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01"/>
    </a>&nbsp;&nbsp;&nbsp;
@@ -62,15 +62,23 @@
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-Kakao&repo=MusicQ)](https://github.com/Dream-Kakao/)
-  
+</br></br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=four-uncles&repo=saramara-community-server)](https://github.com/four-uncles/)
+</br></br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hb9397&repo=Let-s-be-CEO)](https://github.com/hb9397/Let-s-be-CEO)
+
 </div>
+
+</br>
+</br>
 
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb9397&show_icons=true&theme=cobalt&count_private=true)
   
 </div>
-
+</br>
+</br>
 <div align="center">
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=fadeIn)
