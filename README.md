@@ -56,9 +56,23 @@
    <a href="https://www.notion.so/ProjectLog-51bb1fc715ed4efcab26ef6a6be82c6c" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Project Log-E34F26?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ProjectLog-51bb1fc715ed4efcab26ef6a6be82c6c"/>
    </a>
-   
+</div>
+</br>
+</br>
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-Kakao&repo=MusicQ)](https://github.com/Dream-Kakao/)
+  
 </div>
 
 <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hb9397&show_icons=true&theme=cobalt&count_private=true)
+  
+</div>
+
+<div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=fadeIn)
+  
 </div>
