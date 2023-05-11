@@ -32,12 +32,28 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
     </br>
     </br>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VisualstudioCode-007ACC?style=flat-square&logo=VisualstudioCode&logoColor=white"/>
+    </br>
+    </br>
     <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
     <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+    </br>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/GithubAction-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
     <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </br>
     </br>
+   <h2>✨Log✨</h2>
+   <a href="https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/Resume-7E4DD2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01"/>
+   </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.notion.so/StudyLog-52d8468fc84b4da2b9e69162f5be63ee" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/Study Log-569A31?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/StudyLog-52d8468fc84b4da2b9e69162f5be63ee"/>
+   </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.notion.so/ProjectLog-51bb1fc715ed4efcab26ef6a6be82c6c" target="_blank" rel="noreferrer noopener">
+    <img src="https://img.shields.io/badge/Project Log-E34F26?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ProjectLog-51bb1fc715ed4efcab26ef6a6be82c6c"/>
+   </a>
 </div>
