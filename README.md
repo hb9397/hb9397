@@ -61,11 +61,6 @@
 </br>
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dream-Kakao&repo=MusicQ)](https://github.com/Dream-Kakao/)
-</br></br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=four-uncles&repo=saramara-community-server)](https://github.com/four-uncles/)
-</br></br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hb9397&repo=Let-s-be-CEO)](https://github.com/hb9397/Let-s-be-CEO)
 
 </div>
 
