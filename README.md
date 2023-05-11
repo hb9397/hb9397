@@ -46,6 +46,11 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </br>
     </br>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+    </br>
+    </br>
    <h2>✨Log & Project Repository✨</h2>
    <a href="https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Resume-7E4DD2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01"/>
