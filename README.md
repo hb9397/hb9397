@@ -51,6 +51,13 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
     </br>
     </br>
+   <h2>👊Activities & Certificates👊</h2>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 SQLD / 한국데이터산업진흥원 / 2023.07.07</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 카카오(Kakao) 클라우드 개발자 양성과정 2기 / 2022.11 ~ 2023.05</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 성결대학교 컴퓨터 공학과 졸업 / 2017.03 ~ 2023.05</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 정보처리 기사 / 한국산업인력공단 / 2022.09.02 / 22202020829N</p>
+    </br>
+    </br>
    <h2>✨Log & Project Repository✨</h2>
    <a href="https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Resume-7E4DD2?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/df2f383785174e7aa6ff8ece9b2c2f01"/>
