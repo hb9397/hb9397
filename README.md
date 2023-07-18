@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>🏋️‍♂️안녕하세요, 개발자를 꿈꾸는 이현범 입니다.🏋️‍</h1><br>
+  <h1>🏋️‍♂️안녕하세요, 신입 개발자를 꿈꾸는 이현범 입니다.🏋️‍</h1><br>
   <h3>💪저는 _______________ 것을 좋아하며 성장하는 개발자가 되기 위한 길을 걷고 있습니다.</h3><br><br>
   <div align="left">
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👊 운동처럼 꾸준한</p>
