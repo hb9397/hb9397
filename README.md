@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeSAC-Five-Guys&repo=I-See)](https://github.com/SeSAC-Five-Guys/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeSAC-Five-Guys&repo=Member_Client)](https://github.com/SeSAC-Five-Guys/)
 </br></br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hb9397&repo=MusicQ)](https://github.com/Dream-Kakao/)
 </br></br>
